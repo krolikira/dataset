@@ -2,4 +2,4 @@
 "PE":"The system can refresh the display every 60 seconds.",
 "O":"The system can dd the display every 60 seconds."},
 "target": {"AA":1,"PE":2,"O":3},
-"target_names":{"1":"a.req", "2":"pe.req","3":"o.req"}}
+"target_names":{"AA":"a.req", "PE":"pe.req","O":"o.req"}}
