@@ -1,0 +1,28 @@
+1. System requirements
+Business requirements (what the system should do from a business perspective)
+Description of the high-level goals of the organization or customer, achieved through the developed system. Business requirements ultimately describe the business idea without which our system will not be of value to the customer.
+Since business requirements represent a description of the problems and opportunities for which the system is being created to solve or implement, we presented the BT in the format “business problem-> business requirement”
+1. You need an online sales tool.
+2. Goods may remain unclaimed (unaccounted for) due to inadequate documentation of available stock -> Need to automate the inventory management function.
+3. Errors in the calculation of salaries when changing the schedule of employees -> It is necessary to automate the function of calculating salaries based on the current work schedule of employees
+4. Inability to process all incoming applications of potential candidates for a vacancy -> It is necessary to introduce a single resume submission form
+5. Manual reporting is inefficient -> Need to automate the reporting process
+6. Impossibility of storing all data in a single system -> Need a tool to change data in the system
+User requirements (what can a user do in the system):
+(Which template should I use)
+1. Online ordering (customer)
+2. Editing the database of employees (owner)
+3. Editing the database of goods in the warehouse (owner)
+4. Personal account (all)
+5. Reporting upload (owner)
+6. View statements (owner)
+7. Search for products on the site (client)
+8. CV submission (client)
+Functional requirements (functionality (behavior) of the system, the ability of users to perform their duties within the framework of business requirements and in the context of user requirements)
+1. The system must check the accuracy of the entered card data
+2. The system should reserve items in stock that were ordered online
+3. The warehouse information base should contain the name, the number of units in stock for each product
+4. The personal account of the employee must contain his data (name, age, position, work schedule)
+5. A single resume submission form must contain a resume file uploader
+6. Reporting must be able to download
+7. A site with goods should be able to search by the name of the goods and the catalogs in which the goods are located
